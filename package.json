@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/V-core9/__fetch-.git"
+    "url": "git+https://github.com/V-core9/__v_req.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/V-core9/__fetch-/issues"
+    "url": "https://github.com/V-core9/__v_req/issues"
   },
-  "homepage": "https://github.com/V-core9/__fetch-#readme"
+  "homepage": "https://github.com/V-core9/__v_req#readme"
 }

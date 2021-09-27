@@ -5,7 +5,7 @@
 # [1]> Installing___ [ adding to dependencies ]
 
     "dependencies" : {
-      "v_req": "https://github.com/V-core9/__fetch-"
+      "v_req": "https://github.com/V-core9/__v_req"
     }
 
 # [2]> Demo use__ [ how to make a request using it ]
